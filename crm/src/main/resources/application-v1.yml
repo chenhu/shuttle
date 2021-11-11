@@ -1,0 +1,6 @@
+param:
+  basePath: /user/bdoc/17/services/hdfs/132/batch2/jiangsu/
+  crmFilePath: crm/crm.csv
+  crmSavePath: save/crm/
+  masterUrl: yarn-client
+  outPutPartitions: 100

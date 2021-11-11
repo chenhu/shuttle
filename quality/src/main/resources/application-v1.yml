@@ -1,0 +1,10 @@
+param:
+  basePath: /user/bdoc/17/services/hdfs/132/batch2/jiangsu/
+  masterUrl: yarn-client
+  validSignalSavePath: save/validSignal/
+  qualityPartSavePath: save/quality/part/
+  qualityAllSavePath: save/quality/all/
+  days:
+  cityCodes:
+  inputPartitions: 200
+  outPutPartitions: 100

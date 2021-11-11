@@ -1,0 +1,7 @@
+param:
+  basePath: /user/bdoc/17/services/hdfs/132/batch2/jiangsu/
+  cellFilePath: cell/cell.csv
+  cellSavePath: save/cell/
+  masterUrl: yarn-client
+  outPutPartitions: 1
+  geohashSavePath: save/geohash/
